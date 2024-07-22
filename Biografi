@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Website Pribadi M. Arif Ramadhana</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <img src="/1708837552045.jpg" alt="Foto Profil Arif" width="150" height="auto" class="profile-pic">
+        <h1>Selamat Datang di Website Pribadi M. Arif Ramadhana</h1>
+    </header>
+    <main>
+        <section class="bio">
+            <h2>Tentang Saya</h2>
+            <p>Nama: M. Arif Ramadhana</p>
+            <p>Alamat: Desa Kampai</p>
+            <p>Tanggal Lahir: 19 November 2002</p>
+            <p>Anak ke-3 dari 3 bersaudara</p>
+            <p>Jenis Kelamin: Laki-laki</p>
+            <p>Agama: Islam</p>
+            <p>Kewarganegaraan: Indonesia</p>
+            <p>Saya adalah seorang yang penuh semangat dalam berbagai bidang, terutama teknologi dan organisasi. saya Lahir pada 19 November 2002, saya adalah anak ketiga dari tiga bersaudara. Sejak kecil,selalu menunjukkan minat yang besar dalam dunia pendidikan dan teknologi.</p>
+            <p>Pendidikan formal saya dimulai di SD Negeri 174 OKU, dilanjutkan ke SMP Negeri 15 OKU, dan akhirnya menyelesaikan pendidikan menengah atas di SMA Negeri 15 OKU dengan fokus pada Ilmu Pengetahuan Alam, khususnya Fisika dengan nilai rata-rata 89,7. Selama masa sekolah, saya tidak hanya fokus pada akademik tetapi juga aktif dalam kegiatan ekstrakurikuler, khususnya Pramuka dan Organisasi Siswa Intra Sekolah, di mana saya pernah menjabat sebagai Ketua Pramuka dari tahun 2018 hingga 2020.</p>
+            <p>Di bidang komputer, saya memiliki keahlian dalam menggunakan Microsoft Office untuk keperluan sehari-hari dan profesional. saya juga memiliki kemampuan dalam desain grafis menggunakan software seperti Canva dan Blender. Dalam hal pemrograman, saya menguasai beberapa bahasa dan alat seperti Pascal, Visual Studio Code, dan Spck Editor, yang menunjukkan kemampuan yang kuat dalam pengembangan perangkat lunak.</p>
+            <p>Dengan kombinasi keterampilan teknis dan pengalaman organisasi, saya siap menghadapi tantangan dan mencapai kesuksesan di masa depan dengan penuh semangat, dan selalu siap untuk belajar dan berkembang lebih jauh.</p>
+        </section>
+        <section class="education">
+            <h2>Latar Belakang Pendidikan</h2>
+            <ul>
+                <li>2010 - 2015: SD Negeri 174 OKU</li>
+                <li>2015 - 2017: SMP Negeri 15 OKU</li>
+                <li>2017 - 2020: SMA Negeri 15 OKU, Jurusan IPA (Fisika)</li>
+            </ul>
+        </section>
+        <section class="skills">
+            <h2>Kemampuan</h2>
+            <p><strong>Komputer:</strong> Microsoft Office</p>
+            <p><strong>Desain Grafis:</strong> Canva, Blender</p>
+            <p><strong>Programming:</strong> Pascal, Visual Studio Code, Spck Editor</p>
+        </section>
+        <section class="experience">
+            <h2>Pengalaman Organisasi</h2>
+            <p>Aktif di ekstrakurikuler Pramuka dan organisasi OSIS pada tahun 2018 - 2019</p>
+            <p>Menjabat sebagai Ketua Pramuka tahun 2018 - 2020</p>
+        </section>
+        <section class="contact">
+            <h2>Kontak</h2>
+            <a href="https://wa.me/+6282282816556" target="_blank"
+            <img src="/WhatsApp.jpeg" alt="whatsapp logo" width="30" height="auto"
+             >Hubungi via WhatsApp</a>
+            <h2>sosial media</h2>
+            <a href=https://www.facebook.com/profile.php?id=61551103654955&mibextid=ZbWKwL target= "_blank"
+            <img src="/Free Facebook.jpeg" alt="facebook logo" width="30" height="auto"
+            >hubungi via facebook</a>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 M. Arif Ramadhana. All rights reserved.</p>
+    </footer>
+</body>
+</html>
